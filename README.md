@@ -1,4 +1,4 @@
-# bearhost(official site)
+<h1>bearhost(official site)</h1>
 <html>
   <p> the bearhost minecraft server hosting buissnes is the only server where it is managed 12/7 by our staff, contact jerrbearis2cool@gmail.com for more details </p>
   <p>after you have contacted our staff you can choose from many diffrent speeds and file storage size, the best offers are only 2 dollars a week! prices can go as low as 30 dollars a month.</p>
